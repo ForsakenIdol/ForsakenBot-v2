@@ -1,0 +1,4 @@
+.vscode/
+bot-venv/
+config.env
+__pycache__
